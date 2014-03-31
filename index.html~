@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : Handling 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20121212
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Jennifer Paykin</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if IE 6]>
+<link href="default_ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+<div id="wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">Jennifer Paykin</a></h1>
+			<p><br>
+		       <a href="http://www.cis.upenn.edu" style="text-decoration:none" title="">
+				<font color="black"><b>Department of Computer and Information Science</b></font>
+			   </a><br>
+			   <a href="http://www.upenn.edu" style="text-decoration:none" title="">
+				<font color="black"><b>University of Pennsylvania</b></font>
+			   </a>
+			</p>
+		</div>
+	</div>
+	<div id="banner" class="container">
+		<img src="images/bamboo2.jpg" alt="" align="right" hspace="10" />
+		<h2>Contact Info</h2>
+		<p>
+			<b>Email:</b> jpaykin (AT) seas (DOT) upenn (DOT) edu <br>
+			<b>Office:</b> Levine 614
+		</p>
+		<h2>About Me</h2>
+		<p> I am a Ph.D. student studying programming languages with
+			Steve Zdancewic at the University of Pennsylvania. 
+			<!--Here is a link to my <a href="Paykin_CV.pdf">CV</a>.-->
+			Broadly, I am interested in the logic and semantics of type systems. 
+			My current work studies categorical models of classical linear logic
+			and its applications in linear programming and linear algebra.
+		</p>
+
+		<h2>Publications</h2>
+		<ul>
+			<li> <b>A Linear/Producer/Consumer model of Classical Linear Logic</b>
+				<br>
+				Jennifer Paykin and Steve Zdancewic
+				<br>
+				<i> Techical Report MS-CIS-14-03 </i>
+				<br>
+				<!-- <a href="./papers/paykin_LICS_2014.pdf"> [PDF] </a>-->  
+				<a href="./papers/paykin_LPC_tech.pdf"> </a>
+			</li>
+
+			<li> <b>A static cost analysis for a higher-order language</b>
+				<br>
+				Norman Danner, Jennifer Paykin and James S Royer
+				<br>
+				<i>Proceedings of the 7th ACM SIGPLAN workshop on Programming
+	            Languages meets Program Verification (PLPV)</i>, 
+				Rome, Italy, January 2013. 
+				<br>
+				<a href="./papers/danner_PLPV_2013.pdf"> [PDF] </a>
+			</li>
+			<li> <b>Parallel boosted regression trees for web search ranking</b>
+			<br>
+			Stephen Tyree, Killian Q. Weinberger, Kunal Agrawal, and 
+			Jennifer Paykin
+			<br>
+			<i>Proceedings of the 20th International
+            conference on World Wide Web</i>, New York, USA, 2011.
+			</li>
+		</ul>
+
+		<h2>Teaching</h2>
+		<ul>
+			<li> CIS 160, Mathematical Foundations in Computer Science (Teaching Assistant), 
+				University of Pennsylvania, Spring 2014
+			</li>
+			<li> CIS 500, Software Foundations (Teaching Assistant),
+				University of Pennsylvania, Fall 2013
+			</li>
+			<li> Math Workshop (Tutor),
+				Wesleyan University, 2011-2012
+			</li>
+			<li> Discrete Mathematics (Teaching Assistant),
+				Wesleyan University, Spring 2010
+			</li>
+		</ul>
+	</div>
+	
+</div>
+</body>
+</html>
