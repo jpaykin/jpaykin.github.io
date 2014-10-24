@@ -9,7 +9,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 10pt;
 	color: #4F4F4F;
-	overflow: hidden;
+	overflow: auto;
 }
 
 h1, h2, h3 {
@@ -79,7 +79,7 @@ hr {
 /* List style 4 */
 
 	ul.style1 {
-		overflow: hidden;
+		overflow: auto;
 		margin: 0em;
 		padding: 0em;
 		list-style: none;
@@ -116,7 +116,7 @@ hr {
 /* List Style 2 */
 
 	ul.style2 {
-		overflow: hidden;
+		overflow: auto;
 		margin: 0em;
 		padding: 0em;
 		list-style: none;
@@ -213,7 +213,7 @@ hr {
 /* List style 4 */
 
 	ul.style4 {
-		overflow: hidden;
+		overflow: auto;
 		margin: 0em;
 		padding: 0em;
 		list-style: none;
@@ -250,7 +250,7 @@ hr {
 /** WRAPPER */
 
 #wrapper {
-	overflow: hidden;
+	overflow: auto;
 	background: url(images/page-wrapper.png) repeat;
 }
 
@@ -266,7 +266,7 @@ hr {
 /** HEADER */
 
 #header {
-	overflow: hidden;
+	overflow: auto;
 }
 
 /** LOGO */
@@ -356,7 +356,7 @@ hr {
 /** BANNER */
 
 #banner {
-	overflow: hidden;
+	overflow: auto;
 	margin: 3em auto;
 	background: #17689D;
 	padding: 20px 20px 20px 30px;
@@ -386,7 +386,7 @@ hr {
 /** PAGE */
 
 #page {
-	overflow: hidden;
+	overflow: auto;
 	padding: 2em 0em 3em 0em;
 }
 
@@ -430,7 +430,7 @@ hr {
 /* Footer */
 
 #footer {
-	overflow: hidden;
+	overflow: auto;
 	border-top: 1px solid #474747;
 }
 
@@ -447,7 +447,7 @@ hr {
 
 
 #footer-content {
-	overflow: hidden;
+	overflow: auto;
 	padding: 5em 0em 3em 0em;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.50);
 	color: #919191;
