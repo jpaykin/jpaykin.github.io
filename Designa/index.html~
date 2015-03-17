@@ -37,14 +37,13 @@
 <div class="container">
 
 	<header id="navtop">
-		<a href="index.html" class="fleft">
-			<h1>Jennifer Paykin</h1>
-		</a>
-
-		<a href="http://www.upenn.edu/" class="logo fright height:50%;">
-			<svg src="images/plclub-logo.svg" alt="University of Pennsylvania" viewBox="0 0 100 100">
+		<a href="index.html" class="logo fleft">
+			<img src="../images/shield.color.svg" alt="University of Pennsylvania">
 		</a>
 		
+		<nav class="fright">
+			<h1>Jennifer Paykin</h1>
+		</nav>
 		
 <!-- Right Layout
 		<nav class="fright">
@@ -72,29 +71,28 @@
 		</header>
 		
 		<div class="grid col-one-half mq2-col-full">
+			<h2>Contact Info</h2>
+			<p>
+				<b>Email:</b> jpaykin (at) seas (dot) upenn (dot) edu <br>
+				<b>Office:</b> Levine 513
+			</p>
+
 			<h2>About Me</h2>
 			<p> I am a Ph.D. student studying programming languages with
 			Steve Zdancewic at the University of Pennsylvania. 
 			<!--Here is a link to my <a href="Paykin_CV.pdf">CV</a>.-->
 			Broadly, I am interested in the logic and semantics of type systems. 
 			My current work studies categorical models of linear logic
-			and its applications.
+			and its applications in linear programming and linear algebra.
 			</p>
 
-			<h2>Contact Info</h2>
-			<p>
-				<b>Email:</b> jpaykin (at) seas (dot) upenn (dot) edu <br>
-				<b>Office:</b> Levine 513
-			</p>
 		</div>
 
 		<div class="figure grid col-one-half mq2-col-full">
-		<img src="images/bamboo3.jpg" alt="" align="center" hspace="10" />
+		<img src="../images/bamboo3.jpg" alt="" align="right" hspace="10" />
 		</div>
-	</section>
 
-	<section class="grid-wrap">
-		<div class="grid col-full mq2-col-full">
+		<div class "grid col-full mq2-col-full">
 			<h2>Publications</h2>
 			<p> <ul>
 			<li> <b>A linear/producer/consumer model of classical linear logic</b>
