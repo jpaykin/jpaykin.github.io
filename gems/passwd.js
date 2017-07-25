@@ -6,7 +6,7 @@ function onLoad() {
 function showClue() {
   var x = document.getElementById('pdfholder');
   var passwd = document.getElementById('msg_form').value;
-  if (passwd === '001000110021') {
+  if (passwd === '01100100112163') {
     x.style.display = 'block';
   } else {
     x.style.display = 'none';
