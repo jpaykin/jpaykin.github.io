@@ -75,7 +75,7 @@
      style="display:inline">
     <g
        transform="translate(-292.75117,-620.147)"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        id="flowRoot2985">
       <path
          d="m -1267.1865,-41.961 0,40.768 c 0,0.51199706 -0.256,0.7679968 -0.768,0.768 l -5.696,0 c -0.512,-3.2e-6 -0.768,-0.25600294 -0.768,-0.768 l 0,-40.768 -12.416,0 c -0.2133,3.8e-5 -0.4053,-0.06396 -0.576,-0.192 -0.128,-0.170628 -0.192,-0.383961 -0.192,-0.64 l 0,-5.12 c 0,-0.213289 0.064,-0.383955 0.192,-0.512 0.1707,-0.170622 0.3627,-0.255955 0.576,-0.256 l 32.128,0 c 0.2133,4.5e-5 0.384,0.08538 0.512,0.256 0.1706,0.128045 0.256,0.298711 0.256,0.512 l 0,5.12 c 0,0.554705 -0.256,0.832038 -0.768,0.832 l -12.48,0"
@@ -165,7 +165,7 @@
     </g>
     <g
        transform="translate(-336.31367,-618.71843)"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        id="flowRoot2993">
       <path
          d="m -1243.48,52.9375 c -0.2133,-0.05333 -0.36,-0.146669 -0.44,-0.28 -0.08,-0.133335 -0.12,-0.280001 -0.12,-0.44 l 0,-1.44 c 0,-0.346666 0.1867,-0.479999 0.56,-0.4 0.2933,0.106667 0.6267,0.186667 1,0.24 0.4,0.02667 0.8,0.04 1.2,0.04 2.96,0 4.44,-1.853331 4.44,-5.56 l 0,-21.48 c 0,-0.373306 0.1867,-0.559972 0.56,-0.56 l 1.8,0 c 0.3733,2.8e-5 0.56,0.186694 0.56,0.56 l 0,21.44 c 0,2.400003 -0.5333,4.320002 -1.6,5.76 -1.2533,1.573332 -3.0667,2.359998 -5.44,2.36 -0.4533,-2e-6 -0.8933,-0.02667 -1.32,-0.08 -0.4267,-0.05333 -0.8267,-0.106669 -1.2,-0.16"
@@ -773,7 +773,7 @@
          id="text135756"
          y="2723.8745"
          x="-1395.3005"
-         style="font-size:62.24002838px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:62.24002838px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          xml:space="preserve"><tspan
            style="font-size:34.2320137px"
            y="2723.8745"
@@ -1024,7 +1024,7 @@
          id="text8649-6"
          y="599.20642"
          x="-1451.2188"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          xml:space="preserve"><tspan
            y="599.20642"
            x="-1451.2188"
@@ -1035,7 +1035,7 @@
          id="text8657-61"
          y="651.98767"
          x="-1449.5938"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          xml:space="preserve"><tspan
            style="font-size:24px"
            y="651.98767"
@@ -1076,7 +1076,7 @@
          id="text8711"
          y="662.33093"
          x="-1134.9031"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          xml:space="preserve"><tspan
            y="662.33093"
            x="-1134.9031"
@@ -1087,7 +1087,7 @@
          id="text11421"
          y="699.28772"
          x="-1132.9233"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          xml:space="preserve"><tspan
            style="font-size:18.93888092px;fill:#4d4d4d"
            id="tspan11425"
@@ -1115,7 +1115,7 @@
        id="text8372-6"
        y="2403.0808"
        x="-1379.8341"
-       style="font-size:30.60211182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:30.60211182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          y="2403.0808"
          x="-1379.8341"
@@ -1126,7 +1126,7 @@
        id="text30255"
        y="2205.2776"
        x="-534.74951"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          y="2205.2776"
          x="-534.74951"
@@ -1358,7 +1358,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:26.16177368px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:26.16177368px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        x="-2097.9114"
        y="326.03253"
        id="text55151"
@@ -1463,7 +1463,7 @@
            id="text198784"
            y="264.45267"
            x="-751.81958"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
            xml:space="preserve"><tspan
              style="font-size:14px;text-align:center;text-anchor:middle"
              y="264.45267"
@@ -1492,7 +1492,7 @@
            id="text198784-8"
            y="264.45267"
            x="-751.81958"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
            xml:space="preserve"><tspan
              id="tspan198788-6"
              style="font-size:14px;text-align:center;text-anchor:middle"
@@ -1890,7 +1890,7 @@
        y="1630.5781" />
     <text
        xml:space="preserve"
-       style="font-size:48.20125961px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:48.20125961px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        x="1546.9075"
        y="1998.3566"
        id="text44447"
@@ -1972,7 +1972,7 @@
        id="text53257"
        y="2188.5178"
        x="1703.2681"
-       style="font-size:48.20125961px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:48.20125961px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          y="2188.5178"
          x="1703.2681"
@@ -2195,7 +2195,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:46.6295929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:46.6295929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        x="-213.7088"
        y="3427.7815"
        id="text44447-6"
@@ -2487,7 +2487,7 @@
        id="text73668"
        y="3584.3813"
        x="-2668.5398"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          style="font-size:72px"
          y="3584.3813"
@@ -2499,7 +2499,7 @@
        id="text73668-9"
        y="2498.02"
        x="-2220.2737"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          style="font-size:72px"
          y="2498.02"
@@ -2511,7 +2511,7 @@
        id="text254929-7-0"
        y="2818.5361"
        x="-2408.4036"
-       style="font-size:30.29050636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:30.29050636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"
        inkscape:transform-center-x="1860.5747"
        inkscape:transform-center-y="-583.36309"><tspan
@@ -2641,7 +2641,7 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa22ff;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa22ff;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          x="-39.0625"
          y="353.92468"
          id="text62444"
@@ -2662,7 +2662,7 @@
        id="text236339"
        y="-206.58182"
        x="-536.32166"
-       style="font-size:21.3843689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:21.3843689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          y="-206.58182"
          x="-536.32166"
@@ -2809,7 +2809,7 @@
        id="text181504-5"
        y="2475.3096"
        x="1515.3632"
-       style="font-size:107.86554718px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:107.86554718px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          style="font-size:129.43865967px"
          y="2475.3096"
@@ -2936,7 +2936,7 @@
        id="text181504"
        y="3997.2498"
        x="-328.61908"
-       style="font-size:126.80718994px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:126.80718994px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          style="font-size:152.16862488px"
          y="3997.2498"
@@ -3154,7 +3154,7 @@
        id="text254929-3"
        y="-594.86902"
        x="1477.1871"
-       style="font-size:30.29050636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:30.29050636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          id="tspan254943-6"
          style="font-size:64px;fill:#000000"
@@ -3486,7 +3486,7 @@
          id="text42748"
          y="1222.2919"
          x="-1596.7899"
-         style="font-size:48.82466507px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:48.82466507px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          xml:space="preserve"><tspan
            y="1222.2919"
            x="-1596.7899"
@@ -3498,7 +3498,7 @@
          id="text42748-7"
          y="1223.3885"
          x="-902.302"
-         style="font-size:48.82466507px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:48.82466507px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          xml:space="preserve"><tspan
            y="1223.3885"
            x="-902.302"
@@ -3589,7 +3589,7 @@
            id="text42658"
            y="1796.5509"
            x="756.97491"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
            xml:space="preserve"><tspan
              id="tspan42691"
              style="text-align:center;text-anchor:middle"
@@ -3619,7 +3619,7 @@
            id="text42658-6"
            y="2205.7388"
            x="736.20831"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
            xml:space="preserve"><tspan
              style="text-align:center;text-anchor:middle"
              y="2205.7388"
@@ -3683,7 +3683,7 @@
            id="text42658-1-8"
            y="1743.7509"
            x="758.05334"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
            xml:space="preserve"><tspan
              style="text-align:center;text-anchor:middle"
              y="1743.7509"
@@ -3718,7 +3718,7 @@
            id="text42658-6-9-3"
            y="2205.7388"
            x="736.20831"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
            xml:space="preserve"><tspan
              style="text-align:center;text-anchor:middle"
              y="2205.7388"
@@ -3762,7 +3762,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          x="385.15625"
          y="1975.8092"
          id="text42748-3-4"
@@ -3774,7 +3774,7 @@
            y="1975.8092">Lower</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          x="954.12109"
          y="1976.7076"
          id="text42748-7-4-1"
@@ -3825,7 +3825,7 @@
            id="text42658-5-9"
            y="1743.7509"
            x="758.05334"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
            xml:space="preserve"><tspan
              style="text-align:center;text-anchor:middle"
              y="1743.7509"
@@ -3860,7 +3860,7 @@
            id="text42658-6-8-5"
            y="2205.7388"
            x="736.20831"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
            xml:space="preserve"><tspan
              style="text-align:center;text-anchor:middle"
              y="2205.7388"
@@ -3904,7 +3904,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          x="385.15625"
          y="1975.8092"
          id="text42748-0-8"
@@ -3916,7 +3916,7 @@
            y="1975.8092">Lower</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          x="954.12109"
          y="1976.7076"
          id="text42748-7-8-2"
@@ -3979,7 +3979,7 @@
          id="text181730-3"
          y="6061.3052"
          x="-2301.3699"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
          xml:space="preserve"><tspan
            style="font-size:48px"
            id="tspan181744-1"
@@ -4029,7 +4029,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ca20f0;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ca20f0;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        x="-1356.6901"
        y="-97.484261"
        id="text6230"
@@ -4038,10 +4038,10 @@
          id="tspan6232"
          x="-1356.6901"
          y="-97.484261"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ca20f0;fill-opacity:1;font-family:NanumGothic;-inkscape-font-specification:NanumGothic">not in scope</tspan></text>
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ca20f0;fill-opacity:1;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica">not in scope</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:53.76475906px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:53.76475906px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        x="-1453.7809"
        y="-7.735435"
        id="text3170"
@@ -4082,7 +4082,7 @@
          id="tspan3182" /></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ca20f0;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ca20f0;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        x="-1938.3551"
        y="364.5936"
        id="text6230-6"
@@ -4091,7 +4091,7 @@
          id="tspan6232-2"
          x="-1938.3551"
          y="364.5936"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ca20f0;fill-opacity:1;font-family:NanumGothic;-inkscape-font-specification:NanumGothic">...non-linear data using...</tspan></text>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ca20f0;fill-opacity:1;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica">...non-linear data using...</tspan></text>
     <g
        transform="matrix(0.84060033,0,0,0.84060033,-1166.2074,126.59671)"
        id="g209664"
@@ -4297,7 +4297,7 @@
        id="text8372-6-8"
        y="2446.9226"
        x="-219.34938"
-       style="font-size:38.41408539px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:38.41408539px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          y="2446.9226"
          x="-219.34938"
@@ -4308,7 +4308,7 @@
        id="text254929-7"
        y="3746.6875"
        x="-2661.9878"
-       style="font-size:30.29050636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:30.29050636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          id="tspan73715"
          style="font-size:48.46480942px"
@@ -4385,7 +4385,7 @@
        id="text181730"
        y="4851.2729"
        x="-2288.7532"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          style="font-size:48px"
          y="4851.2729"
@@ -4439,7 +4439,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:26.16177368px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:26.16177368px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        x="-2004.4053"
        y="526.41278"
        id="text55151-0"
@@ -4459,7 +4459,7 @@
        id="text254929"
        y="-382.26099"
        x="3856.7861"
-       style="font-size:30.29050636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:30.29050636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        xml:space="preserve"><tspan
          style="font-size:48.46480942px;text-align:center;text-anchor:middle"
          y="-382.26099"
@@ -4484,7 +4484,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot100329"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:NanumGothic;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:NanumGothic;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:NanumGothic, Trebuchet, Helvetica;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
          id="flowRegion100331"><rect
            id="rect100333"
            width="134.375"
@@ -4777,7 +4777,7 @@
        x="-246.4646" />
     <text
        xml:space="preserve"
-       style="font-size:11.32246876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic"
+       style="font-size:11.32246876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NanumGothic, Trebuchet, Helvetica;-inkscape-font-specification:NanumGothic, Trebuchet, Helvetica"
        x="-1482.0536"
        y="589.30249"
        id="text227999"
